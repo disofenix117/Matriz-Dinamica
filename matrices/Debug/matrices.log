@@ -1,0 +1,8 @@
+﻿  funciones.cpp
+f:\diego suarez\u.m.n.g\introduccion computacion grafica 2.0\matrices\matrices\funciones.cpp(365): warning C4244: 'inicializando': conversión de 'double' a 'unsigned int'; posible pérdida de datos
+f:\diego suarez\u.m.n.g\introduccion computacion grafica 2.0\matrices\matrices\funciones.cpp(368): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+f:\diego suarez\u.m.n.g\introduccion computacion grafica 2.0\matrices\matrices\funciones.cpp(355): warning C4101: 'xv': variable local sin referencia
+f:\diego suarez\u.m.n.g\introduccion computacion grafica 2.0\matrices\matrices\funciones.cpp(355): warning C4101: 'yv': variable local sin referencia
+f:\diego suarez\u.m.n.g\introduccion computacion grafica 2.0\matrices\matrices\funciones.cpp(354): warning C4101: 'd': variable local sin referencia
+f:\diego suarez\u.m.n.g\introduccion computacion grafica 2.0\matrices\matrices\funciones.cpp(354): warning C4101: 'o': variable local sin referencia
+  matrices.vcxproj -> F:\Diego Suarez\U.M.N.G\introduccion computacion grafica 2.0\matrices\Debug\matrices.exe
